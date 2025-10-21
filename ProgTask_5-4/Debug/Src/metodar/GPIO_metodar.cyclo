@@ -1,0 +1,7 @@
+../Src/metodar/GPIO_metodar.c:68:6:GPIO_oppstart	1
+../Src/metodar/GPIO_metodar.c:119:6:GPIO_blink	1
+../Src/metodar/GPIO_metodar.c:132:6:GPIO_sett_kompassmoenster	1
+../Src/metodar/GPIO_metodar.c:140:6:GPIO_lys_av	1
+../Src/metodar/GPIO_metodar.c:151:6:GPIO_lys_paa	1
+../Src/metodar/GPIO_metodar.c:161:6:GPIO_sjekk_brytar	3
+../Src/metodar/GPIO_metodar.c:176:6:GPIO_brytaravprelling	6

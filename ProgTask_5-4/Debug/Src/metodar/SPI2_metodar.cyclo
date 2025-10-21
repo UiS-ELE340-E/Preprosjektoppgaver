@@ -1,0 +1,5 @@
+../Src/metodar/SPI2_metodar.c:32:6:SPI2_oppstart	1
+../Src/metodar/SPI2_metodar.c:113:8:SPI2_SendByte_Sokkel1	3
+../Src/metodar/SPI2_metodar.c:124:6:Exp_click_sokkel1_oppstart	1
+../Src/metodar/SPI2_metodar.c:129:6:Exp_click_sokkel1_sett_retningAB	3
+../Src/metodar/SPI2_metodar.c:143:6:Exp_click_sokkel1_skriv_til_AB	3

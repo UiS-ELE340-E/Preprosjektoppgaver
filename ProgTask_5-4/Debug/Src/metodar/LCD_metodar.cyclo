@@ -1,0 +1,10 @@
+../Src/metodar/LCD_metodar.c:41:6:LCD_init	4
+../Src/metodar/LCD_metodar.c:86:6:LCD_kommando	1
+../Src/metodar/LCD_metodar.c:95:6:LCD_tekst	2
+../Src/metodar/LCD_metodar.c:106:6:LCD_data	1
+../Src/metodar/LCD_metodar.c:118:6:LCD_tal2siff_4	3
+../Src/metodar/LCD_metodar.c:142:6:LCD_skrivesyklus_data	1
+../Src/metodar/LCD_metodar.c:159:6:LCD_skrivesyklus_kommando	1
+../Src/metodar/LCD_metodar.c:204:6:vent_400nsek	2
+../Src/metodar/LCD_metodar.c:208:6:vent_100usek	2
+../Src/metodar/LCD_metodar.c:212:6:vent_400msek	2

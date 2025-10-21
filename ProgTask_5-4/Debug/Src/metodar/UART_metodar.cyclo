@@ -1,0 +1,13 @@
+../Src/metodar/UART_metodar.c:44:6:USART2_init	1
+../Src/metodar/UART_metodar.c:91:6:USART3_init	1
+../Src/metodar/UART_metodar.c:137:6:USART_Put	2
+../Src/metodar/UART_metodar.c:148:9:USART_Get	2
+../Src/metodar/UART_metodar.c:158:9:USART_les	2
+../Src/metodar/UART_metodar.c:169:6:USART_skriv	2
+../Src/metodar/UART_metodar.c:179:6:USART_skriv_streng	2
+../Src/metodar/UART_metodar.c:187:6:USART2_send_tid8_og_data16	1
+../Src/metodar/UART_metodar.c:210:6:USART2_send_tid8_og_data16x3	1
+../Src/metodar/UART_metodar.c:254:6:USART2_handtering	1
+../Src/metodar/UART_metodar.c:264:6:USART2_handtering1	5
+../Src/metodar/UART_metodar.c:297:6:USART2_handtering2	2
+../Src/metodar/UART_metodar.c:317:6:USART2_handtering3	4

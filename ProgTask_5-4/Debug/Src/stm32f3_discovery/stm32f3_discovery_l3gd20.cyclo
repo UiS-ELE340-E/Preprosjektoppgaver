@@ -1,0 +1,12 @@
+../Src/stm32f3_discovery/stm32f3_discovery_l3gd20.c:103:6:L3GD20_Init	1
+../Src/stm32f3_discovery/stm32f3_discovery_l3gd20.c:129:6:L3GD20_RebootCmd	1
+../Src/stm32f3_discovery/stm32f3_discovery_l3gd20.c:149:6:L3GD20_INT1InterruptConfig	1
+../Src/stm32f3_discovery/stm32f3_discovery_l3gd20.c:184:6:L3GD20_INT1InterruptCmd	1
+../Src/stm32f3_discovery/stm32f3_discovery_l3gd20.c:206:6:L3GD20_INT2InterruptCmd	1
+../Src/stm32f3_discovery/stm32f3_discovery_l3gd20.c:226:6:L3GD20_FilterConfig	1
+../Src/stm32f3_discovery/stm32f3_discovery_l3gd20.c:251:6:L3GD20_FilterCmd	1
+../Src/stm32f3_discovery/stm32f3_discovery_l3gd20.c:271:9:L3GD20_GetDataStatus	1
+../Src/stm32f3_discovery/stm32f3_discovery_l3gd20.c:288:6:L3GD20_Write	3
+../Src/stm32f3_discovery/stm32f3_discovery_l3gd20.c:322:6:L3GD20_Read	3
+../Src/stm32f3_discovery/stm32f3_discovery_l3gd20.c:355:13:L3GD20_LowLevel_Init	1
+../Src/stm32f3_discovery/stm32f3_discovery_l3gd20.c:442:16:L3GD20_SendByte	5

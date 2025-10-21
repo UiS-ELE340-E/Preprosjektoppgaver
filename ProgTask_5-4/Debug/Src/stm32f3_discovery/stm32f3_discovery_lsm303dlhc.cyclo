@@ -1,0 +1,17 @@
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:102:6:LSM303DLHC_AccInit	1
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:128:6:LSM303DLHC_AccRebootCmd	1
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:148:6:LSM303DLHC_AccFilterConfig	1
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:175:6:LSM303DLHC_AccFilterCmd	1
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:198:6:LSM303DLHC_AccFilterClickCmd	1
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:227:6:LSM303DLHC_AccIT1Config	2
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:264:6:LSM303DLHC_AccIT2Config	2
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:294:6:LSM303DLHC_AccINT1InterruptConfig	2
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:322:6:LSM303DLHC_AccINT2InterruptConfig	2
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:350:6:LSM303DLHC_AccClickITConfig	2
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:376:9:LSM303DLHC_AccGetDataStatus	1
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:392:6:LSM303DLHC_MagInit	1
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:423:9:LSM303DLHC_MagGetDataStatus	1
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:440:10:LSM303DLHC_Write	11
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:503:10:LSM303DLHC_Read	13
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:576:13:LSM303DLHC_LowLevel_Init	1
+../Src/stm32f3_discovery/stm32f3_discovery_lsm303dlhc.c:666:10:LSM303DLHC_TIMEOUT_UserCallback	1

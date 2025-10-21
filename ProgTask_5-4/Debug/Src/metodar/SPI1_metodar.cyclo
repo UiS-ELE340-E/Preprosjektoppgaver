@@ -1,0 +1,3 @@
+../Src/metodar/SPI1_metodar.c:34:6:SPI1_oppstart	1
+../Src/metodar/SPI1_metodar.c:117:8:SPI1_SendByte_gyro	3
+../Src/metodar/SPI1_metodar.c:128:6:gyro_oppstart	4
